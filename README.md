@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gelstudios/gitfiti.svg?branch=master)](https://travis-ci.org/gelstudios/gitfiti) [![Netlify Status](https://api.netlify.com/api/v1/badges/fd0488e1-a9bd-4a33-8aee-d3b31954f1a9/deploy-status)](https://app.netlify.com/sites/rbhachu-robofriends/deploys)
+[![Build Status](https://travis-ci.org/gelstudios/gitfiti.svg?branch=master)](https://travis-ci.org/gelstudios/gitfiti) [![Netlify Status](https://api.netlify.com/api/v1/badges/74fbd202-0f7a-4ad4-b58d-6189d82d821a/deploy-status)](https://app.netlify.com/sites/rbhachu-robofriends-hooks-ts/deploys)
 
 <h1 align="center">RoboFriends + Hooks + TypeScript</h1>
 
